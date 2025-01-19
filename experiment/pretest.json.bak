@@ -1,0 +1,38 @@
+[
+   {
+      "question": "By forward difference <span style='display:inline-block;'>$$ \\frac{dy}{dx} $$ </span> is given by",
+      "qid": 1,
+      "option_a": "<span style='display:inline-block;'>$$ \\frac{y_{i+1} + y_i}{h} $$ </span>",
+      "option_b": "<span style='display:inline-block;'>$$ \\frac{y_i + y_{i+1}}{h} $$ </span>",
+      "option_c": "<span style='display:inline-block;'>$$ \\frac{y_i - y_{i+1}}{h} $$ </span>",
+      "option_d": "<span style='display:inline-block;'>$$ \\frac{y_{i+1} - y_i}{h} $$ </span>",
+      "correct_option": "d"
+   },
+   {
+      "question": "By backward difference <span style='display:inline-block;'>$$ \\frac{dy}{dx} $$ </span> is given by",
+      "qid": 2,
+      "option_a": "<span style='display:inline-block;'>$$ \\frac{y_{i-1} + y_i}{h} $$ </span>",
+      "option_b": "<span style='display:inline-block;'>$$ \\frac{y_i + y_{i-1}}{h} $$ </span>",
+      "option_c": "<span style='display:inline-block;'>$$ \\frac{y_i - y_{i-1}}{h} $$ </span>",
+      "option_d": "<span style='display:inline-block;'>$$ \\frac{y_{i-1} - y_i}{h} $$ </span>",
+      "correct_option": "c"
+   },
+   {
+      "question": "By central difference <span style='display:inline-block;'>$$ \\frac{dy}{dx} $$ </span> is given by",
+      "qid": 3,
+      "option_a": "<span style='display:inline-block;'>$$ \\frac{y_{i-1} + y_{i+1}}{h} $$ </span>",
+      "option_b": "<span style='display:inline-block;'>$$ \\frac{y_{i+1} + y_{i-1}}{h} $$ </span>",
+      "option_c": "<span style='display:inline-block;'>$$ \\frac{y_{i+1} - y_{i-1}}{h} $$ </span>",
+      "option_d": "<span style='display:inline-block;'>$$ \\frac{y_{i-1} - y_{i+1}}{h} $$ </span>",
+      "correct_option": "c"
+   },
+   {
+      "question": "<span style='display:inline-block;'>$$\\frac{d^2y}{dx^2}$$ </span> is given by",
+      "qid": 4,
+      "option_a": "<span style='display:inline-block;'>$$\\frac{y_{i+1} - 2y_i + y_{i-1}}{h^2}$$ </span>",
+      "option_b": "<span style='display:inline-block;'>$$\\frac{y_{i+1} + 2y_i - y_{i-1}}{h^2}$$ </span>",
+      "option_c": "<span style='display:inline-block;'>$$\\frac{y_{i+1} - y_i + y_{i-1}}{h^2}$$ </span>",
+      "option_d": "<span style='display:inline-block;'>$$\\frac{y_{i+1} + y_i - y_{i-1}}{h^2}$$ </span>",
+      "correct_option": "a"
+   }
+]
